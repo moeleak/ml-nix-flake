@@ -1,5 +1,5 @@
 {
-  description = "dev sheel with uv and cuda";
+  description = "dev shell with uv and cuda out of the box";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";

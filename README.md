@@ -1,5 +1,5 @@
 # ml-nix-flake
-A simple nix flake to start ML env
+A simple nix flake to start ML env out of the box
 
 ## Usage
 ```
