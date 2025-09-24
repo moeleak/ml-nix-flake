@@ -5,15 +5,15 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1732211616,
-        "narHash": "sha256-QZCKJoypcwgS3tDNSWMjlxEBZtOYPW3eXV24rMzKsac=",
-        "owner": "numtide",
+        "lastModified": 1758684284,
+        "narHash": "sha256-MHzb7knKmesvi2lIf48PCAUxsdrmYupYp9iv3QA0vr4=",
+        "owner": "moeleak",
         "repo": "nix-gl-host",
-        "rev": "5269b233f83880a0b433eafe026f0bc0d8f1a4a9",
+        "rev": "acf3dcd3bb33b48c5b30975b8fbe4476e4c8fcca",
         "type": "github"
       },
       "original": {
-        "owner": "numtide",
+        "owner": "moeleak",
         "repo": "nix-gl-host",
         "type": "github"
       }
