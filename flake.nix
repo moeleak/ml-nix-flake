@@ -57,5 +57,11 @@
             export LD_LIBRARY_PATH="${stdenv.cc.cc.lib}/lib:$LD_LIBRARY_PATH"
           '';
         };
+      templates = {
+        default = {
+          path = ./.;
+          description = "A CUDA-enabled development environment for ML projects using uv.";
+        };
+      };
     };
 }
