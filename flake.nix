@@ -46,6 +46,8 @@
             zlib
           ];
 
+          UV_DEFAULT_INDEX = "https://pypi.tuna.tsinghua.edu.cn/simple";
+
           shellHook = ''
             VENV_DIR=".venv"
             if [ ! -d "$VENV_DIR" ]; then
